@@ -1,0 +1,35 @@
+{
+  "n_candidates": 972,
+  "n_pareto": 360,
+  "best_ranked_candidate": {
+    "id": "candidate_0033",
+    "feed_rate_kg_hr": 5.0,
+    "reactor_temp_c": 850.0,
+    "reduction_time_min": 30.0,
+    "grind_micron": 200.0,
+    "h2_recycle": true,
+    "heat_recovery": true,
+    "condenser_mode": "low",
+    "oxygen_kg_hr": 0.04587837381818181,
+    "power_kw": 12.215,
+    "h2_loss_kg_hr": 0.012,
+    "complexity_score": 2.2,
+    "thermal_margin_c": 240.0,
+    "conversion": 0.29509090909090907,
+    "robustness_score": 0.8811535816618912,
+    "yield_retention": 0.82,
+    "worst_oxygen_kg_hr": 0.03762026653090908,
+    "worst_thermal_margin_c": 234.6,
+    "max_power_kw": 14.3066,
+    "max_h2_loss_kg_hr": 0.016200000000000003,
+    "rank_score": -1.0521525632733526,
+    "pareto": true
+  },
+  "top_5_ids": [
+    "candidate_0033",
+    "candidate_0034",
+    "candidate_0030",
+    "candidate_0069",
+    "candidate_0031"
+  ]
+}
