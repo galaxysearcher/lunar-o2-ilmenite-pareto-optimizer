@@ -1,4 +1,5 @@
-[project]
+﻿[project]
+license = "Apache-2.0"
 name = "lunar-o2-ilmenite-pareto-optimizer"
 version = "0.1.0"
 description = "Pareto and robustness analysis for lunar oxygen extraction tradeoffs using ilmenite processing scenarios."
@@ -10,3 +11,4 @@ dev = ["pytest>=8.0"]
 [tool.pytest.ini_options]
 testpaths = ["tests"]
 pythonpath = ["src"]
+
